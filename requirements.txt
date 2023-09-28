@@ -6,6 +6,7 @@ flask
 nltk 
 transformers
 torch
+matplotlib
 
 
 
